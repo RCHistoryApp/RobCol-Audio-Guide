@@ -1,4 +1,4 @@
-# Nordic Museum Audio Guide
+# Robert College Audio Guide
 
 Targets: iOS 9.0 or greater
 
